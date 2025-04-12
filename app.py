@@ -152,7 +152,7 @@ def webhook():
                 msg.body(out)
 
         elif txt_l == "view chart":
-            personal = [e for e in expenses if e["user"] == user]
+            personal = [e for e in expenses if e.get("user") == user]
             if generate_pie_chart(personal):
                 chart_url = request.url_root + "chart"
                 msg.body("📊 Your Personal Spending Chart:")

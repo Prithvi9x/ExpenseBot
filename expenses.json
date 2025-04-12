@@ -9,5 +9,17 @@
     "amount": 50.0,
     "desc": "book",
     "category": "study"
+  },
+  {
+    "user": "whatsapp:+919004139740",
+    "amount": 300.0,
+    "desc": "dress",
+    "category": "shopping"
+  },
+  {
+    "user": "whatsapp:+919004139740",
+    "amount": 50.0,
+    "desc": "pavbhaji",
+    "category": "food"
   }
 ]

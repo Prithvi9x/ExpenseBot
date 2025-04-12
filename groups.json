@@ -11,6 +11,18 @@
         "amount": 200.0,
         "desc": "hotel",
         "category": "food"
+      },
+      {
+        "added_by": "whatsapp:+919004139740",
+        "amount": 2000.0,
+        "desc": "flights",
+        "category": "transport"
+      },
+      {
+        "added_by": "whatsapp:+919004139740",
+        "amount": 250.0,
+        "desc": "jet",
+        "category": "fun"
       }
     ]
   }
