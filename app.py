@@ -142,7 +142,7 @@ def webhook():
                 msg.body("❌ Invalid format. Use: add <amount> <desc> <category>")
 
         elif txt_l == "view all":
-            personal = [e for e in expenses if e["user"] == user]
+            personal = [e for e in expenses if e.get("user") == user]
             if not personal:
                 msg.body("📭 No personal expenses yet.")
             else:

@@ -3,5 +3,11 @@
     "amount": 20.0,
     "desc": "pav",
     "category": "food"
+  },
+  {
+    "user": "whatsapp:+919004139740",
+    "amount": 50.0,
+    "desc": "book",
+    "category": "study"
   }
 ]
