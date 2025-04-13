@@ -5,12 +5,13 @@ Managing everyday expenses can quickly become overwhelming with the number of tr
 Our bot is built using **Python Flask** for the backend, with **Ngrok** to expose the local server, **Twilio WhatsApp API** for messaging integration and **MongoDB** for database.
 
 The bot offers two modes:
-**Personal Expense Mode:** Add expenses, view all entries, and visualize category-wise spending using a pie chart.
-**Group Expense Mode:** Create groups, add members, track group expenses, and view group-wise spending details.
+**Personal Expense Mode:** Add expenses, view all entries, visualize category-wise spending using a pie chart, set and view budgets for different categories and get AI-assisted reviews and suggestions.
+**Group Expense Mode:** Create groups, add members, track group expenses, view group-wise spending details, see visual represenations of expenses and settle/pay these expenses wihting the bot itself.
 
 **Features**
 - Personal expense tracking
 - Group expense management
+- Budgeting
 - Expense categorization
 - Visual charts for expense analysis
 - AI-powered expense insights
