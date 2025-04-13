@@ -1,0 +1,99 @@
+[
+  {
+    "name": "new car",
+    "members": [
+      "+123456789",
+      "+987654321",
+      "+132457689"
+    ],
+    "expenses": []
+  },
+  {
+    "name": "new_car",
+    "members": [
+      "+123456789",
+      "+987654321",
+      "+132457689",
+      "+9004139740"
+    ],
+    "expenses": []
+  },
+  {
+    "name": "test",
+    "members": [
+      "+1234567890",
+      "+2345678901"
+    ],
+    "expenses": []
+  },
+  {
+    "name": "testnew",
+    "members": [
+      "+919004139740",
+      "+911234567890",
+      "+912345678901"
+    ],
+    "expenses": []
+  },
+  {
+    "name": "new",
+    "members": [
+      "+919004139740",
+      "+912222222222",
+      "+911111111111"
+    ],
+    "expenses": [
+      {
+        "added_by": "whatsapp:+919004139740",
+        "amount": 500.0,
+        "desc": "food",
+        "category": "food"
+      },
+      {
+        "added_by": "whatsapp:+912222222222",
+        "amount": 1500.0,
+        "desc": "lodge",
+        "category": "stay"
+      },
+      {
+        "added_by": "whatsapp:+919004139740",
+        "amount": 350.0,
+        "desc": "confetti",
+        "category": "party",
+        "paid_by": "+911111111111"
+      },
+      {
+        "added_by": "whatsapp:+919004139740",
+        "amount": 2000.0,
+        "desc": "hotel",
+        "category": "food",
+        "paid_by": "+919004139740"
+      }
+    ]
+  },
+  {
+    "name": "abcd",
+    "members": [
+      "+919004139740",
+      "+9111111111",
+      "+9122222222"
+    ],
+    "expenses": []
+  },
+  {
+    "name": "abc",
+    "members": [
+      "+919004139740",
+      "+912345678901",
+      "+911234567890"
+    ],
+    "expenses": [
+      {
+        "added_by": "whatsapp:+919004139740",
+        "amount": 100.0,
+        "desc": "bus",
+        "category": "transport"
+      }
+    ]
+  }
+]
