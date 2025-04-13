@@ -17,6 +17,9 @@ The bot offers two modes:
 - AI-powered expense insights
 - Budget setting and tracking
 
+## Prototype Video (Pitch)
+https://drive.google.com/file/d/1X8CHdhjUnukJkqDv-NyPxPhDM6WWbqXE/view
+
 ## Setup
 
 1. Clone the repository
