@@ -6,7 +6,7 @@ Our bot is built using **Python Flask** for the backend, with **Ngrok** to expos
 
 The bot offers two modes:
 **Personal Expense Mode:** Add expenses, view all entries, visualize category-wise spending using a pie chart, set and view budgets for different categories and get AI-assisted reviews and suggestions.
-**Group Expense Mode:** Create groups, add members, track group expenses, view group-wise spending details, see visual represenations of expenses and settle/pay these expenses wihting the bot itself.
+**Group Expense Mode:** Create groups, add members, track group expenses, view group-wise spending detail and visual represenations of expenses and settle/pay these expenses wihting the bot itself.
 
 **Features**
 - Personal expense tracking
